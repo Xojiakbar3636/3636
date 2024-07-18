@@ -1,0 +1,1 @@
+print("mening birinch kodim")
